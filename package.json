@@ -1,0 +1,28 @@
+{
+  "name": "try-catch-helper",
+  "version": "1.0.0",
+  "description": "Simple helper wrapping try catch",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/wereldbolt/try-catch-helper.git"
+  },
+  "keywords": [
+    "try",
+    "catch",
+    "async"
+  ],
+  "author": "Ernst Bolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wereldbolt/try-catch-helper/issues"
+  },
+  "homepage": "https://github.com/wereldbolt/try-catch-helper#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "parse-error": "^0.2.0"
+  }
+}
